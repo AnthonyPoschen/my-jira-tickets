@@ -3,7 +3,7 @@
   "name": "My Jira Tickets",
   "version": "1.0",
   "description": "Shows open Jira tickets assigned to me in a popup.",
-  "permissions": ["storage", "activeTab", "alarms"],
+  "permissions": ["storage", "alarms"],
   "optional_host_permissions": ["<all_urls>"],
   "action": {
     "default_popup": "popup.html",
